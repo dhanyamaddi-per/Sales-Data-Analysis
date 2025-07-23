@@ -2,7 +2,7 @@
 
 # 📊 Sales Data Analysis - STAT515 Final Project
 
-This repository contains the final project submission for Group 16 of STAT515 at George Mason University. The project centers around a comprehensive analysis of a sales dataset to uncover meaningful patterns, trends, and predictive insights using statistical and machine learning methods.
+This repository contains the project that centers around a comprehensive analysis of a sales dataset to uncover meaningful patterns, trends, and predictive insights using statistical and machine learning methods.
 
 ## 📁 Project Files
 - `sales_data_sample-1.csv`: The raw dataset sourced from Kaggle.
